@@ -1,3 +1,4 @@
+Set-ExecutionPolicy Unrestricted -scope CurrentUser
 cd $home\Downloads
 git clone https://github.com/khanhas/spicetify-cli.git
 cd $home\Downloads\spicetify-cli
