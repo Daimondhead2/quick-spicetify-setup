@@ -5,8 +5,8 @@ A quick script I made for a few friends to install my custom spicetify set-up fo
 # THE INSTALLER VERSION  
   
 1) Press the Windows Key + X and click on Windows Powershell (Admin)
-2) Navigate to the directory you downloaded the .ps1 file using cd ( probably should type cd $home\Downloads)
-3)Run the script by typing ".\spicetify.ps1" without the speech marks
+2) Navigate to the directory you downloaded the .ps1 file using cd (probably should type cd $home\Downloads)
+3) Run the script by typing ".\spicetify.ps1" without the speech marks
 4) ???
 5) Profit  
   
