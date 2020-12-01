@@ -8,11 +8,11 @@ Some quick scripts I made for a few friends to install my custom spicetify set-u
 1) Download "spicetify.ps1" and "spicetify-pre-req.ps1" from the latest release on the right side of this page
 2) Press the Windows Key + X and click on Windows Powershell (Admin)
 3) Navigate to the directory you downloaded the .ps1 file using cd (probably should type cd $home\Downloads)
-4) Right Click the "spicetify.sp1" script and select "properties"
+4) Right Click the "spicetify-pre-req.ps1" script and select "properties"
 5) Click "Unblock towards the bottom of the screen"
 6) Accept any warnings stated
-7) Run the script by typing ".\spicetify.ps1" without the speech marks
-8) Repeat steps 4 - 7 for the "spicetify-pre-req.ps1"
+7) Run the script by typing ".\spicetify-pre-req.ps1" without the speech marks
+8) Repeat steps 4 - 7 for the "spicetify.ps1"
 9) ???
 10) Profit  
   
