@@ -3,6 +3,7 @@ A quick script I made for a few friends to install my custom spicetify set-up fo
 # Make SURE you have Spotify installed already!  
 # NOT THE WINDOWS STORE VERSION
 # THE INSTALLER VERSION  
+# THIS ONE: https://www.spotify.com/us/download/windows/
   
 1) Press the Windows Key + X and click on Windows Powershell (Admin)
 2) Navigate to the directory you downloaded the .ps1 file using cd (probably should type cd $home\Downloads)
