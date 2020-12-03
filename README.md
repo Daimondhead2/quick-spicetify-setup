@@ -12,9 +12,10 @@ Some quick scripts I made for a few friends to install my custom spicetify set-u
 5) Click "Unblock towards the bottom of the screen"
 6) Accept any warnings stated
 7) Run the script by typing ".\spicetify-pre-req.ps1" without the speech marks in Powershell
-8) Repeat steps 4 - 7 for the "spicetify.ps1"
-9) ???
-10) Profit  
+8) Close and reopen Powershell
+9) Repeat steps 4 - 7 for the "spicetify.ps1"
+10) ???
+11) Profit  
   
 # IF MUSICXMATCH DOESN'T WORK PROPERLY, FOLLOW THE GUIDE AT https://github.com/khanhas/genius-spicetify#musicxmatch !!!
   
